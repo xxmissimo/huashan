@@ -40,6 +40,7 @@ public class AppConsumer {
 				}
 			}
 		});
+		//假装添加修改
 		//关闭连接 
 		//connection.close();
 	}
